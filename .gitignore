@@ -1,0 +1,43 @@
+# Build directories
+build/
+bin/
+out/
+debug_files/
+
+# IDE/Editor
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.suo
+*.pdb
+*.idb
+*.ilk
+.vs/
+
+# Artifacts
+*.exe
+*.lib
+*.dll
+*.exp
+*.obj
+*.so
+*.a
+*.dylib
+
+# Temporary/Trash
+*.log
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Large Files
+*.7z
+*.zip
+*.tar.gz
+*.rar
+
+# Local config
+imgui.ini

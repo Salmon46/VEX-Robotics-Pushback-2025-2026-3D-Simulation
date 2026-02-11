@@ -1,0 +1,16 @@
+# CMake
+build/
+bin/
+lib/
+cmake-build-*/
+
+# IDEs
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.vcxproj.user
+
+# OS
+.DS_Store
+Thumbs.db
