@@ -1,5 +1,7 @@
 # 3D Robotics Driving Simulation
 
+![Picture of the simulation](image.png "Picture of the simulation")
+
 A high-performance 3D robotics simulator built with C++, Vulkan, and Nvidia PhysX. This project simulates a VEX V5 robot driving, manipulating game elements (blocks), and interacting with a physics-based environment.
 
 ## Features
